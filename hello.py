@@ -19,4 +19,3 @@ def greet(who):
     return f"加油，{who}！"
 
 print(greet(name))
-print("这是我第二次提交")
