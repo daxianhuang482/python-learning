@@ -22,3 +22,4 @@ python hello.py
 - [x] 跑通第一个程序 `hello.py`
 - [x] 建好 Git 仓库
 - [ ] 写完 3 个小脚本：批量重命名、爬网页、读 Excel
+- [x] 第一次把代码 push 到 GitHub
